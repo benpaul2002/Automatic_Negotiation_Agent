@@ -70,7 +70,7 @@ class opModel {
     }
 }
 
-public class Team_1_Agent extends AbstractNegotiationParty {
+public class Agent extends AbstractNegotiationParty {
 
     private Bid lastReceivedBid = null;
     private opModel opponentModel = null;
